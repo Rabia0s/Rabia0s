@@ -20,3 +20,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabia0s&show_icons=true&locale=en" alt="rabia0s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabia0s&" alt="rabia0s" /></p>
+
+
+
+
+
+     *
+    ***
+   *****
+  *******
+ *********
+*************
+     ||
+     ||
+
+Profilimde daha fazla içerik bulabilirsiniz.
