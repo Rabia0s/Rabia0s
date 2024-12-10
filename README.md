@@ -25,13 +25,3 @@
 
 
 
-     *
-    ***
-   *****
-  *******
- *********
-*************
-     ||
-     ||
-
-Profilimde daha fazla içerik bulabilirsiniz.
