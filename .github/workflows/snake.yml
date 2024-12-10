@@ -1,4 +1,6 @@
-# This workflow contains a single job called "build"
+jobs:
+
+  # This workflow contains a single job called "build"
 
   build:
 
@@ -18,7 +20,7 @@ steps:
   - uses: Platane/snk@master
     id: snake-gif
     with:
-      github_user_name: Rabia0s
+      github_user_name: mishmanners
       # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
       gif_out_path: dist/github-contribution-grid-snake.gif
       svg_out_path: dist/github-contribution-grid-snake.svg
@@ -41,6 +43,4 @@ steps:
       build_dir: dist
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
 
