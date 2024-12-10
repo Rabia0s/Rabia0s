@@ -1,4 +1,4 @@
-https://www.atlas.edu.tr/wp-content/uploads/2024/02/software-engineering.jpg
+https://www.basamak.com.tr/wp-content/uploads/2021/06/yazilim-nedir-1.jpg
 
 <h1 align="center">Hi 🙋🏻‍♀️ , I'm Rabia</h1>
 <h3 align="center">A passionate frontend developer from Turkıye</h3>
