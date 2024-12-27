@@ -11,11 +11,13 @@
 
 <h3>About Me:</h3>
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React, Redux, GraphQL**
 
 - ⚡  I think ı'am **hardworking**
 
 - 💬 Ask me about **HTML, CSS, JS**
+
+- 📫 How to reach me **rsevim006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
