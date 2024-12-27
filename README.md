@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I think ı'am hardworking**
 
-  <img 'https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif'><img> 
+<img src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif" width="200" height="300">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
