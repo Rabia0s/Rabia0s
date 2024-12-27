@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
-- ⚡ Fun fact **I think ı'am hardworking**
+- ⚡  I think ı'am **hardworking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
