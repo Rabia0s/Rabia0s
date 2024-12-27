@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React, Redux, GraphQL**
 
-- ⚡  I think ı'am **hardworking**
+- ⚡  Fun fact I love **Front-End develop**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
