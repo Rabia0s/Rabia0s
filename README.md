@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I think ı'am hardworking**
 
+  <img 'https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif'><img> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rabia sevim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabia sevim" height="30" width="40" /></a>
